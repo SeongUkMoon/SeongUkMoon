@@ -21,7 +21,8 @@ ___
 
 ### 🔭 Experience
 
-- 🎓 Seokeong University , Computer Engineering (2018.03~ )
+- 🎓 Seokeong University , Computer Engineering (2018.03 ~ 2022.02)
+- 🎓 Seoul National University , Intelligent Motion Lab, Research Intern (2024.01~ )
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uky6202" width="400">
 
