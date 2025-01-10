@@ -15,10 +15,10 @@ ___
 - 🚅 I live in `Seoul` in `South Korea`
 
 
-### 🔭 Experience
+### 🔭 Education
 
-- 🎓 Seokeong University , Computer Engineering (2018.03 ~ 2022.02)
-- 🎓 Seoul National University , Intelligent Motion Lab, Research Intern (2024.01~ )
+- 🎓 Bachelor of Engineering in Computer Enginnering, Seokeong University
+- 🎓 Integrated Master's and Ph.D. Program, Intelligent Motion Lab, Interdisciplinary Program in Artificial Intelligence, Seoul National University (2025.03~ ) 
 
 ### 😄 What I Enjoy
 
