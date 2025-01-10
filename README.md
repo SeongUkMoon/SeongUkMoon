@@ -18,7 +18,7 @@ ___
 ### 🔭 Education
 
 - 🎓 Bachelor of Engineering in Computer Enginnering, Seokeong University
-- 🎓 Integrated Master's and Ph.D. Program, Intelligent Motion Lab, Interdisciplinary Program in Artificial Intelligence, Seoul National University (2025.03~ ) 
+- 🎓 Integrated Master's and Ph.D. Program, Intelligent Motion Lab, Interdisciplinary Program in Artificial Intelligence, Seoul National University
 
 ### 😄 What I Enjoy
 
